@@ -1,4 +1,4 @@
-# Fintech Engineering Bootcamp
+# Fintech Engineering Bootcamp [Work In Progress]
 
 Welcome to the Fintech Engineering Bootcamp repository! This open-source resource aims to provide a comprehensive understanding of fintech engineering principles, focusing on the intersection of financial technology and software engineering.
 
