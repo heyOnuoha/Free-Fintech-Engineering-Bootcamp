@@ -142,6 +142,14 @@ Revenue increases with Credit entries and decreases with Debit entries.
 
 Expense increases with Debit entries and decreases with Credit entries.
 
+These accounts are the building blocks of accounting and are crucial for developing an accurate financial understanding of FinTech.
+
+These account types are represented on their respective Debit and Credit sides of the General Ledger (GL), with debits appearing on the left-hand side and credits on the right-hand side of the GL.
+
+Here's an image to help you better visualize this concept:
+
+[Image here]
+
 ## Contra Accounts
 
 Contra accounts are unique types of accounts used to offset the balance of a related account. They have opposite balances to the accounts they relate to and are used to adjust the value of these accounts.
@@ -180,4 +188,20 @@ In summary, contra accounts are essential in providing a more accurate and truth
 
 ### Debits and Credits
 
-A debit (Dr) is an entry on the left side of an account. It can incre
+A debit (Dr.) is an entry on the left side of an account. It can increase asset and expense accounts and decrease liability, equity, and revenue accounts.
+
+A credit (Cr.) is an entry on the right side of an account. It can increase liability, equity, and revenue accounts and decrease asset and expense accounts.
+
+## General Ledger (GL)
+
+A General Ledger (GL) is a complete record of all financial transactions that occur within an organization over its lifetime.
+
+It serves as the central repository for the accounting data transferred from all subledgers and journals, like the sales journal, purchases journal, cash receipts journal, and cash disbursements journal.
+
+A GL is made up of Accounts, Transactions Details (date, narration, and amount), and Debit and Credit Entries.
+
+[Image of GL]
+
+### Fiscal Year
+
+A fiscal year is the time period a 
